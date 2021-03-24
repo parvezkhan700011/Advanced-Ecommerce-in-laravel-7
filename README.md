@@ -82,7 +82,7 @@ Many more....
 6. Set your Braintree credentials in your .env file if you want to use PayPal
 7. run this cmd php artisan migrate Migrate db file(database/e-shop.sql) into your database (mysql,sql) Username:root, Password:empty
 8. run this cmd php artisan migrate:fresh --seed
-11. Edit .env file :- remove APP_URL
+9. Edit .env file :- remove APP_URL
 10. php artisan serve or use virtual host
 11. Visit http://localhost:8080/myprojects/Advance-Ecommerce-in-laravel-7-master/ and administration 
 http://localhost:8080/myprojects/Advance-Ecommerce-in-laravel-7-master/public/login in your browser
