@@ -9,12 +9,10 @@ I am always looking forward to more sharing, communicating and networking along 
 Thanks:) 
 
 # Contact Information
-Mobile: 
-+91-9406503972
-Email: 
-parvezkhan700011@gmail.com
-Address: 
-90 Pachmarhi Cantt Near Cariappa Park Pipariya Road Pachmarhi Madhya Pradesh India
+-Developer Name: Mr. Parvez Khan
+-Mobile: +91-9406503972 
+-Email: parvezkhan700011@gmail.com
+-Address: 90 Pachmarhi Cantt Near Cariappa Park Pipariya Road Pachmarhi Madhya Pradesh India
 Interested in Immediately Relocate anywhere of India if I get a chance and expectect good salary package.
 
 
